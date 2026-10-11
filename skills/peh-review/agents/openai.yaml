@@ -1,0 +1,7 @@
+interface:
+  display_name: "Independent Review"
+  short_description: "Review a change using fresh code evidence"
+  default_prompt: "Use $peh-review to independently review this change without editing code."
+
+policy:
+  allow_implicit_invocation: false

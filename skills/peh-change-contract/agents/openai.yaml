@@ -1,0 +1,7 @@
+interface:
+  display_name: "Change Contract"
+  short_description: "Record intent, boundaries, and acceptance checks"
+  default_prompt: "Use $peh-change-contract to define this feature before implementation."
+
+policy:
+  allow_implicit_invocation: false

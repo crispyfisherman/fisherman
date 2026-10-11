@@ -1,0 +1,7 @@
+interface:
+  display_name: "Prevent Recurring Mistakes"
+  short_description: "Turn recurring mistakes into scoped, proven checks"
+  default_prompt: "Use $peh-correct to prevent this recurring mistake using local-only changes."
+
+policy:
+  allow_implicit_invocation: false

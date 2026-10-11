@@ -1,0 +1,7 @@
+interface:
+  display_name: "Reviewer Explanation"
+  short_description: "Explain verified findings with concrete execution paths"
+  default_prompt: "Use $peh-explain-review to explain these findings for my personal review."
+
+policy:
+  allow_implicit_invocation: false

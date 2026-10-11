@@ -1,0 +1,7 @@
+interface:
+  display_name: "Trace System"
+  short_description: "Learn a system through concrete, code-linked traces"
+  default_prompt: "Use $peh-trace-system in study mode to teach me this system one flow at a time."
+
+policy:
+  allow_implicit_invocation: false

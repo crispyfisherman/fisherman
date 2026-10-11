@@ -1,0 +1,7 @@
+interface:
+  display_name: "Interrogate Findings"
+  short_description: "Verify review findings and challenge assumptions"
+  default_prompt: "Use $peh-interrogate to verify these findings against the current code."
+
+policy:
+  allow_implicit_invocation: false
